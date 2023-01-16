@@ -5,26 +5,26 @@ Company: Untitled 1
 
   ### Componentes:
 
-    - Anahi Morales
-    - Judith Blanco
-    - Marta Ordas
-    - Marina Ferreras 
-    - Ana Gallego
+    Anahi Morales
+    Judith Blanco
+    Marta Ordas
+    Marina Ferreras 
+    Ana Gallego
   
-   1. Objetivos:
+   ### 1. Objetivos:
  
    Procesamiento de los 4 ficheros que recogen los datos obtenidos en una encuesta sobre el mundo Data y BI. 
    Para ello realizaremos el análisis, limpieza, organizacion y estructuración de los datos para su estudio.
 
-  2.  Estructuracion:
+   ### 2.  Estructuracion:
 
   Creacción del repositorio donde encontraremos 3 carpetas correspondientes a los nootebook de cada sprint y una carpeta de data con los   archivos con los diferentes procesos de EDA, Limpieza, ETL, Visualizacion, Estdistica, entre otros que hemos usado durante el           proyecto.
   
-   3. Uso y aplicacion:
+   ### 3. Uso y aplicacion:
    
    Librerias y metodo de Numpy, Pandas, Matplotlib y Seaborn, Sckit-Learn.
 
-  4. Gestion:
+   ### 4. Gestion:
 
    En este proyecto hemos intentado responder a la pregunta de nuestro cliente(Adalab) de si podría ampliar su oferta formativa y en        caso afirmativo en qué curso podría hacerlo. 
 
