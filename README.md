@@ -18,7 +18,7 @@ Company: Untitled 1
   
    ### 3. Uso y aplicacion:
    
-   Librerias y metodo de Numpy, Pandas, Matplotlib y Seaborn, Sckit-Learn.
+   Librerias y metodo de Numpy, Pandas, Sideteble, Matplotlib y Seaborn, Sckit-Learn.
 
    ### 4. Gestion:
 
