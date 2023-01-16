@@ -14,7 +14,7 @@ Company: Untitled 1
 
    ### 2.  Estructuracion:
 
-  Creacción del repositorio donde encontraremos 3 carpetas correspondientes a los nootebook de cada sprint y una carpeta de data con los   archivos con los diferentes procesos de EDA, Limpieza, ETL, Visualizacion, Estdistica, entre otros que hemos usado durante el           proyecto.
+  Creacción del repositorio donde encontraremos 3 carpetas correspondientes a los nootebook de cada sprint y una carpeta de data con los   archivos con los diferentes procesos en estas carpetas mostraremos los siguientes procesos de EDA, Limpieza, ETL, Visualizacion, Estdistica, entre otros que hemos usado durante el proyecto.
   
    ### 3. Uso y aplicacion:
    
