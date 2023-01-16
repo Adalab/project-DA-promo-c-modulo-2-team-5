@@ -5,11 +5,7 @@ Company: Untitled 1
 
   ### Componentes:
 
-    Anahi Morales
-    Judith Blanco
-    Marta Ordas
-    Marina Ferreras 
-    Ana Gallego
+    Anahi Morales, Judith Blanco, Marta Ordas, Marina Ferreras, Ana Gallego
   
    ### 1. Objetivos:
  
